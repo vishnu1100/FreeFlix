@@ -1,5 +1,5 @@
-# Free Flix - Free Movie Download Website
-
+# Free Flix - Free Movie Download Website version 1.0 
+ 
 
 Freeflix  is a free and open-source movie download website that allows users to access a vast collection of movies for free. This project is developed using HTML, CSS, and JavaScript,TMDB API  making it simple and lightweight, ensuring a seamless movie browsing and downloading experience.
 
@@ -47,7 +47,7 @@ To run MovieHub locally, follow these steps:
 
 2. Navigate to the project directory.
    ```
-   cd MovieHub
+   cd /FreeFlix/
    ```
 
 3. Open the `index.html` file in your preferred web browser.
