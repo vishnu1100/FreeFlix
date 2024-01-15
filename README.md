@@ -1,7 +1,7 @@
 # Free Flix - Free Movie Download Website
 
 
-Freeflix  is a free and open-source movie download website that allows users to access a vast collection of movies for free. This project is developed using HTML, CSS, and JavaScript, making it simple and lightweight, ensuring a seamless movie browsing and downloading experience.
+Freeflix  is a free and open-source movie download website that allows users to access a vast collection of movies for free. This project is developed using HTML, CSS, and JavaScript,TMDB API  making it simple and lightweight, ensuring a seamless movie browsing and downloading experience.
 
 ## Table of Contents
 - [Introduction](#introduction)
