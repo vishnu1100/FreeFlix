@@ -53,14 +53,6 @@ To run MovieHub locally, follow these steps:
 3. Open the `index.html` file in your preferred web browser.
 
 
-## Screenshots
-
-![Screenshot 1](/screenshots/1.png)
-
-![Screenshot 1](/screenshots/2.png)
-
-![Screenshot 1](/screenshots/3.png)
-
 
 ## Usage
 
