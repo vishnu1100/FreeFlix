@@ -36,6 +36,17 @@ Freeflix aims to provide movie enthusiasts with an easy-to-use platform to explo
 
 Check out the live demo of MovieHub [here](https://vishnu1100.github.io/FreeFlix/).
 
+
+## All Versions 
+
+
+version 1.0 [link](https://vishnu1100.github.io/FreeFlix/)
+
+
+version 2.0 [link](https://vishnu1100.github.io/Free-Flixx-2.0/)
+
+
+
 ## Installation
 
 To run MovieHub locally, follow these steps:
